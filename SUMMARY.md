@@ -11,4 +11,7 @@
     * [【一】栈](StackQueue/栈.md)
     * [【二】队列](StackQueue/队列.md)
     * [【三】循环队列](StackQueue/循环队列.md)
+* [链表](LinkedList/README.md)
+    * [【一】链表设计](LinkedList/链表设计.md)
+    * [【二】链表-添加元素](LinkedList/链表-添加元素.md)
 
