@@ -18,4 +18,6 @@
     * [【四】链表-修改元素](LinkedList/链表-修改元素.md)
     * [【五】链表-删除元素](LinkedList/链表-删除元素.md)
     * [【六】链表-复杂度分析](LinkedList/链表-复杂度分析.md)
+    * [【七】链表实现栈](LinkedList/链表实现栈.md)
+    * [【八】链表实现队列](LinkedList/链表实现队列.md)
 
